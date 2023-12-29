@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/codingwithchad/util"
+	"github.com/codingwithchad/simplebank/util"
 	_ "github.com/lib/pq"
 )
 

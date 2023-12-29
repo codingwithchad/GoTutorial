@@ -8,7 +8,7 @@ import (
 
 	"github.com/codingwithchad/simplebank/api"
 	db "github.com/codingwithchad/simplebank/db/sqlc"
-	"github.com/codingwithchad/util"
+	"github.com/codingwithchad/simplebank/util"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package api
 
 import (
-	db "github.com/codingwithchad/db/sqlc"
+	db "github.com/codingwithchad/simplebank/db/sqlc"
 	"github.com/gin-gonic/gin"
 )
 
