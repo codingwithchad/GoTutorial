@@ -1,0 +1,7 @@
+{
+    "type" : "host",
+    "params": {
+        "hostname" : "foo"
+    },
+	"resource": {}
+}
