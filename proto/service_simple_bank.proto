@@ -4,7 +4,7 @@ package pb;
 
 import "rpc_create_user.proto";
 
-option go_package = "github.com/techschool/simplebank/pb";
+option go_package = "github.com/codingwithchad/simplebank/pb";
 
 service SimpleBank  {
     rpc CreateUser (CreateUserRequest) returns (CreateUserResponse) {
